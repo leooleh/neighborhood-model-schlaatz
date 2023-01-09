@@ -3,8 +3,8 @@ This model was built as part of a cooperation of the Potsdam University of Appli
 
 # Installation
 
-Clone this repository
-Download GAMA here
-Run GAMA
-Choose a new Workspace (this is a temporay folder used for computation)
-Right click on User Models->Import->GAMA Project.. and import the project that you just cloned
+- Clone this repository
+- Download GAMA [here](https://gama-platform.org/download)
+- Run GAMA
+- Choose a new Workspace (folder used for computation)
+- Right click on User Models->Import->GAMA Project.. & import the project that you just cloned
